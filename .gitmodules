@@ -1,3 +1,6 @@
 [submodule "DES"]
 	path = DES
 	url = https://github.com/FreakingBarbarians/DES
+[submodule "CommanderAi"]
+	path = CommanderAi
+	url = https://github.com/FreakingBarbarians/CommanderAi
