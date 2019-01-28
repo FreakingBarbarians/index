@@ -4,3 +4,6 @@
 [submodule "CommanderAi"]
 	path = CommanderAi
 	url = https://github.com/FreakingBarbarians/CommanderAi
+[submodule "ShipWakeHeightField"]
+	path = ShipWakeHeightField
+	url = https://github.com/FreakingBarbarians/ShipWakeHeightField
