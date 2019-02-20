@@ -1,4 +1,4 @@
-# A directory for navigating my git
+# A directory for navigating my git/Portfolio
 
 ## Technichal Works
 
